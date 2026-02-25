@@ -1,0 +1,1 @@
+# Mobiln-aplikace-pro-diagnostiku-a-rehabilitace-poruch-mimiky-a-ch-ze
