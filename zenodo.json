@@ -1,0 +1,29 @@
+{
+  "title": "Mobile application for the diagnosis and rehabilitation of facial and gait disorders",
+  "upload_type": "software",
+  "description": "This project focuses on the development of a mobile application aimed at diagnosing and rehabilitating facial and gait disorders. It integrates advanced diagnostic tools and rehabilitation techniques to assist patients and healthcare professionals.",
+  "creators": [
+    {
+      "name": "Jan Kohout",
+      "affiliation": "Vysoká škola chemicko-technologická v Praze, Ústav matematiky, informatiky a kybernetiky"
+    },
+    {
+      "name": "Karel Štícha",
+      "affiliation": "Vysoká škola chemicko-technologická v Praze, Ústav matematiky, informatiky a kybernetiky"
+    },
+    {
+      "name": "Jan Mareš",
+      "affiliation": "Vysoká škola chemicko-technologická v Praze, Ústav matematiky, informatiky a kybernetiky"
+    }
+  ],
+  "keywords": [
+    "diagnosis",
+    "rehabilitation",
+    "mobile application",
+    "facial disorders",
+    "gait disorders"
+  ],
+  "license": "CC-BY-NC",
+  "version": "1.0.0",
+  "address": "Technická 5, 166 28 Praha 6, Česká republika"
+}
