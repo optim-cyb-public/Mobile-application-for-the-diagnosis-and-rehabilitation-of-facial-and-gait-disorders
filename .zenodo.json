@@ -27,11 +27,6 @@
     "gait disorders"
   ],
   "license": "cc-by-nc-4.0",
-  "grants": [
-    {
-      "id": "00k4n6c32::NW26-06-00464"
-    }
-  ],
   "notes": "Funded by the Czech Health Research Council (Agentura pro zdravotnický výzkum ČR, AZV ČR), grant no. NW26-06-00464: 'Diagnosis and comprehensive treatment of facial nerve dysfunction using an advanced AI-based platform for facial and sensory (taste) analysis'. OpenAIRE funder ID for AZV ČR is 00k4n6c32 (source: OpenAIRE funder registry, https://api.openaire.eu/funders).",
   "access_right": "restricted",
   "access_conditions": "Source code is confidential. Access to the full repository is restricted to project members.",
